@@ -1,6 +1,14 @@
+github.com/jakehl/goid v1.1.0 h1:c08GO8z16wWJtfQhyiD8BQRFkpf1oDxaPmA+uYAG+50=
+github.com/jakehl/goid v1.1.0/go.mod h1:V6bQh+tr2Oay5WHL0jmTTJWrABYIO+cs4/P6e1prV1o=
+github.com/twharmon/gouid v0.3.0 h1:IQ6Zx0ozy2PCNdPNZ/PLjN+Z6BFPUbELq0/SL0sxCJE=
+github.com/twharmon/gouid v0.3.0/go.mod h1:Ruorlc0y7P3Dy3IwLks8m6Rt96O+inLQO3El93ShqdU=
 github.com/zh-artykbay/hw2lib v0.0.0-20210607104110-591cab2bc320 h1:JGHaHAe6lXVxq5ScykJOWy9jdNLPMHFqCILKFpoUAlg=
 github.com/zh-artykbay/hw2lib v0.0.0-20210607104110-591cab2bc320/go.mod h1:PLN/RQ0d1XFEVQJf5ZSuK4yM1K4xVCO/V/g7TivBrEg=
 github.com/zh-artykbay/hw2lib v1.0.0 h1:D6mi0gBm+WSlmr3VUFlhOyaX7wNrX58Y7hNcpUL/9Rg=
 github.com/zh-artykbay/hw2lib v1.0.0/go.mod h1:PLN/RQ0d1XFEVQJf5ZSuK4yM1K4xVCO/V/g7TivBrEg=
 github.com/zh-artykbay/hw2lib v1.0.1 h1:KrQOk5/Kx24TAzCaAn5ioy3PQ1pFJeFIUWyg984Ct8E=
 github.com/zh-artykbay/hw2lib v1.0.1/go.mod h1:PLN/RQ0d1XFEVQJf5ZSuK4yM1K4xVCO/V/g7TivBrEg=
+github.com/zh-artykbay/hw2lib v1.0.3 h1:LgZW/dRJyIRadbW51kuxsldOhudWMu5aYX/SGDxRaEc=
+github.com/zh-artykbay/hw2lib v1.0.3/go.mod h1:dCfT28SywvUWieAfQAfDNJZ5KCsVIA1EsA7FlJSeh3s=
+github.com/zh-artykbay/hw2lib v1.0.4 h1:I7Olj7OEjuWuegUS6pPj0jwF6OuFlpWVz2aA8KiPB6s=
+github.com/zh-artykbay/hw2lib v1.0.4/go.mod h1:dCfT28SywvUWieAfQAfDNJZ5KCsVIA1EsA7FlJSeh3s=
